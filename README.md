@@ -1,7 +1,7 @@
 ### Hi there! 👋
 My name is Andrus, welcome to my profile!
 
-use ${your.username}.${your.repo.id}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
+${your.username}.${your.repo.id}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
 <!--
 **andrusand/andrusand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
