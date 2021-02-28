@@ -1,5 +1,9 @@
 ### Hi there! 👋
 My name is Andrus, welcome to my profile!
+- 🏕️ Feel free to sit by the campfire and rest before moving on.
+- 🔭 I’m currently studying to become a Software (Java) Developer.
+- 💬 I'm also a Technnical Recruiter, so feel free to ask me anything about Recruitment and how Recruiters work.
+- 📫 How to reach me: andrusdev@pm.me
 
 <!--
 **andrusand/andrusand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
